@@ -348,6 +348,14 @@ public class Global
             ""
     ];
 
+    public static readonly List<string> EchForceQueryType =
+    [
+        "none",
+            "half",
+            "full",
+            ""
+    ];
+
     public static readonly List<string> UserAgent =
     [
         "chrome",
